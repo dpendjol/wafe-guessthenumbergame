@@ -1,1 +1,2 @@
-# Winc Academy FrontEnd Course - Guess-The-Number-Game assignment
+# Winc Academy FrontEnd Course
+## Guess-The-Number-Game assignment
